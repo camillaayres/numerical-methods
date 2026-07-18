@@ -1,11 +1,6 @@
 # numerical-methods
 # Numerical Methods: Asian Options and Barrier Options
 
-**MSc Quantitative Finance — SMM313 Numerical Methods: Applications**
-Bayes Business School, City St George's, University of London
-Submitted: March 2026 
-
-
 ---
 
 ## Overview
